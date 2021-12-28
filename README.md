@@ -1,7 +1,7 @@
 # _Clock Angle_
 
 #### _Ruby week 1 Basic Ruby practice project for Epicodus Bootcamp_
-#### _Created By _**Christopher Neal & Chase Stokes**_
+#### Created By _**Christopher Neal & Chase Stokes**_
 
 #### _An application to find the angle of the clock hands at different times._
 
